@@ -59,5 +59,8 @@
   "bugs": {
     "url": "https://github.com/bu0nq/workspace.frontend.config.lint/issues"
   },
-  "homepage": "https://github.com/bu0nq/workspace.frontend.config.lint#readme"
+  "homepage": "https://github.com/bu0nq/workspace.frontend.config.lint#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
