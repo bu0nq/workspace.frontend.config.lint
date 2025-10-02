@@ -114,13 +114,14 @@ export default {
 
       'font',
       'font-family',
+      'color',
+      'line-height',
       'font-size',
       'font-weight',
       'font-style',
       'font-variant',
       'font-size-adjust',
       'font-stretch',
-      'line-height',
       'letter-spacing',
       'white-space',
       'overflow-wrap',
@@ -130,7 +131,6 @@ export default {
       'text-transform',
       'text-indent',
       'text-overflow',
-      'color',
 
       'background',
       'background-image',
